@@ -2,11 +2,11 @@
     "basics": {
         "name": "Pavel Bubentsov",
         "label": "Frontend Developer",
-        "picture": "https://goo.gl/NzxK6G",
+        "picture": "http://pbubentsov.ru/wp-content/uploads/2018/08/pavel_bubentsov.png",
         "email": "bazzy.bazzy@gmail.com",
         "phone": "+7 (963) ask-by-email",
         "website": "http://pbubentsov.ru",
-        "summary": "I'm passionate about the art, aesthetics, typography and smooth transitions, rather than by the patterns, complex algorithms and Big-O notation",
+        "summary": "I'm passionate about the art, aesthetics, typography and smooth transitions, rather than by programming patterns, complex algorithms and Big-O notation",
         "location": {
             "address": "Primorsky area",
             "postalCode": "197345",
@@ -77,7 +77,7 @@
             "endDate": "2012-02-01",
             "summary": "Outsource ruby on rails development company",
             "highlights": [
-                "36on.ru organizations repository to use Yandex data schema"
+                "Made 36on.ru organizations repository to use Yandex data schema"
             ]
         }
     ],
@@ -213,8 +213,12 @@
     ],
     "references": [
         {
-            "name": "Nikolay Ryzhikov",
-            "reference": "https://www.facebook.com/nicola.ryzhikov"
+            "name": "Nikolay Ryzhikov, CTO of Health Samurai",
+            "reference": "Ask my on https://www.facebook.com/nicola.ryzhikov"
+        },
+        {
+            "name": "Dmitry Morkushin, CTO of Clickavia",
+            "reference": "Ask my on https://twitter.com/HomJSim"
         }
     ]
 }
