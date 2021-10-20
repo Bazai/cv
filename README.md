@@ -1,11 +1,13 @@
 # Pavel Bubentsov Resume (CV)
 
-Read it on the [registry.jsonresume.org/Bazai](https://registry.jsonresume.org/Bazai)
+[https://bazai.github.io/cv/](https://bazai.github.io/cv/)
 
-Read [one-page version](https://registry.jsonresume.org/26019128)
+# Edit
 
-## Edit the JSON schema compatible file: [resume.json](resume.json)
+Follow the JSON schema: [https://jsonresume.org/schema/](resume.jsohttps://jsonresume.org/schema/n)
 
-# Commands
+# Deploy
 
-1. `resume serve --theme stackoverflow`. The result is exported into `public/index.html` file
+1. `yarn install`
+2. `resume serve --theme spartan` to generate `index.html` file. The result is exported into `public/index.html` file
+3. `yarn deploy` to push `public/index.html` into gh-pages branch
