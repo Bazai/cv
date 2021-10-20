@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "github-pages": "^3.0.2",
+    "resume-cli": "^3.0.5"
+  }
+}

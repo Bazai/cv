@@ -4,9 +4,8 @@ Read it on the [registry.jsonresume.org/Bazai](https://registry.jsonresume.org/B
 
 Read [one-page version](https://registry.jsonresume.org/26019128)
 
-Read it in JSON format file: [resume.json](resume.json) file
----
-Publish one-page resume command: 
-1. `resume publish --theme onepage`
-2. Select `Publish as guest`
-3. Update this README
+## Edit the JSON schema compatible file: [resume.json](resume.json)
+
+# Commands
+
+1. `resume serve --theme stackoverflow`. The result is exported into `public/index.html` file
