@@ -1,6 +1,6 @@
 # Pavel Bubentsov Resume (CV)
 
-Read it on the [registry.jsonresume.org/pbubentsov](https://registry.jsonresume.org/pbubentsov)
+Read it on the [registry.jsonresume.org/Bazai](https://registry.jsonresume.org/Bazai)
 
 Read [one-page version](https://registry.jsonresume.org/26019128)
 
