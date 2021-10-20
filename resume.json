@@ -2,7 +2,7 @@
     "basics": {
         "name": "Pavel Bubentsov",
         "label": "Frontend Developer",
-        "picture": "http://pbubentsov.ru/wp-content/uploads/2018/08/pavel_bubentsov.png",
+        "picture": "https://user-images.githubusercontent.com/1017745/138045487-213f030d-a29d-4c35-b5ca-22ab59918c0d.png",
         "email": "bazzy.bazzy@gmail.com",
         "phone": "+7 (963) ask-by-email",
         "website": "http://pbubentsov.ru",
@@ -38,6 +38,21 @@
         ]
     },
     "work": [
+      {
+            "company": "Evrone",
+            "position": "Frontend developer",
+            "website": "https://evrone.com/",
+            "startDate": "2018-09-01",
+            "endDate": "now",
+            "summary": "Outsource complex IT solutions company",
+            "highlights": [
+                "FreshAuto used cars marketplace. Implemented brand new look and UX for the CRM and auctioning platform. Vue 2, Vuex, GraphQL, Apollo, Tailwind CSS",
+                "Experimental 'wow effect' landing page using three.js",
+                "Experimental corporate cellular expenses tracking tool: Ruby on Rails, HAML, CSS",
+                "Mokka.ru micro finances and loan company. Made website rebranding and brand new admin panel UX. Lerna, React, next.js, react-query, yandex-maps",
+                "procaresolutions.com web application support and development. React, Redux, REST API, PdfJS Express"
+            ]
+        },
         {
             "company": "Health Samurai",
             "position": "Full-stack developer",
@@ -46,10 +61,10 @@
             "endDate": "2018-07-01",
             "summary": "Outsource HealthIT developers on top of the FHIR standard",
             "highlights": [
-                "Developed Narus Health (https://narushealth.com) Compassion platform Frontend",
-                "Designed UI for the aidbox.io platform",
+                "Developed Narus Health (https://narushealth.com) Compassion platform Frontend. React",
+                "Designed UI for the aidbox.io platform. ClojureScript",
                 "Participated to FHIRStarter 2018 conference organizing (digital marketing)",
-                "Won the FHIR tools hackathon",
+                "Won the FHIR tools hackathon. Vue 2",
                 "Drastically reduced time to ship landing page changes via webflow.io"
             ]
         },
@@ -59,9 +74,9 @@
             "website": "http://clickavia.ru",
             "startDate": "2010-09-01",
             "endDate": "2014-11-01",
-            "summary": "Charter flights search engine and booking agency",
+            "summary": "Charter flights search engine and booking platform",
             "highlights": [
-                "Introduced a tech stack change for the scale: PHP → Ruby on Rails, DevOps",
+                "Introduced a tech stack change for the scale: PHP → Ruby on Rails, Haml, SCSS, Backbone.js, DevOps",
                 "Assembled a technical team",
                 "Introduced technical culture and practices for the scale",
                 "Built 3 website and search engine versions",
@@ -71,8 +86,8 @@
         },
         {
             "company": "Evrone",
-            "position": "Ruby on Rails developer",
-            "website": "http://evrone.ru/",
+            "position": "Junior Ruby on Rails developer",
+            "website": "https://evrone.com/",
             "startDate": "2011-09-01",
             "endDate": "2012-02-01",
             "summary": "Outsource ruby on rails development company",
@@ -138,10 +153,10 @@
         },
         {
             "name": "Design",
-            "level": "Good Enough",
+            "level": "Average",
             "keywords": [
                 "Sketch",
-                "Photoshop",
+                "Figma",
                 "Typography",
                 "UI",
                 "UX"
