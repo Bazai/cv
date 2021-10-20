@@ -1,238 +1,206 @@
 {
-    "basics": {
-        "name": "Pavel Bubentsov",
-        "label": "Frontend Developer",
-        "picture": "https://user-images.githubusercontent.com/1017745/138045487-213f030d-a29d-4c35-b5ca-22ab59918c0d.png",
-        "email": "bazzy.bazzy@gmail.com",
-        "phone": "+7 (963) ask-by-email",
-        "summary": "I'm passionate about the art, aesthetics, typography and smooth transitions, rather than programming patterns, complex algorithms and Big-O notation",
-        "location": {
-            "address": "Primorsky area",
-            "postalCode": "197345",
-            "city": "Saint-Petersburg",
-            "countryCode": "RU",
-            "region": "Saint-Petersburg"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "Bazlai",
-                "url": "https://twitter.com/Bazlai"
-            },
-            {
-                "network": "Facebook",
-                "username": "pavel.bubentsov",
-                "url": "https://www.facebook.com/pavel.bubentsov"
-            },
-            {
-                "network": "Github",
-                "username": "Bazai",
-                "url": "https://github.com/Bazai"
-            },
-            {
-                "network": "LinkedIn",
-                "username": "Pavel Bubentsov",
-                "url": "https://www.linkedin.com/in/pavel-bubentsov-75050332/"
-            }
-        ]
+  "basics": {
+    "name": "Pavel Bubentsov",
+    "label": "Frontend Developer",
+    "picture": "https://user-images.githubusercontent.com/1017745/138045487-213f030d-a29d-4c35-b5ca-22ab59918c0d.png",
+    "email": "bazzy.bazzy@gmail.com",
+    "phone": "+7 (963) ask-by-email",
+    "summary": "I'm passionate about the art, aesthetics, typography and smooth transitions, rather than programming patterns, complex algorithms and Big-O notation",
+    "location": {
+      "address": "Primorsky area",
+      "postalCode": "197345",
+      "city": "Saint-Petersburg",
+      "countryCode": "RU",
+      "region": "Saint-Petersburg"
     },
-    "work": [
+    "profiles": [
       {
-            "company": "Evrone",
-            "position": "Frontend developer",
-            "website": "https://evrone.com/",
-            "startDate": "2018-09-01",
-            "endDate": "now",
-            "summary": "Outsource complex IT solutions company",
-            "highlights": [
-                "FreshAuto used cars marketplace. Implemented brand new look and UX for the CRM and auctioning platform. Vue 2, Vuex, GraphQL, Apollo, Tailwind CSS",
-                "Experimental 'wow effect' landing page using three.js",
-                "Experimental corporate cellular expenses tracking tool: Ruby on Rails, HAML, CSS",
-                "Mokka.ru micro finances and loan company. Made website rebranding and brand new admin panel UX. Lerna, React, next.js, react-query, yandex-maps",
-                "procaresolutions.com web application support and development. React, Redux, REST API, PdfJS Express"
-            ]
-        },
-        {
-            "company": "Health Samurai",
-            "position": "Full-stack developer",
-            "website": "https://www.health-samurai.io/",
-            "startDate": "2014-11-01",
-            "endDate": "2018-07-01",
-            "summary": "Outsource HealthIT developers on top of the FHIR standard",
-            "highlights": [
-                "Developed Narus Health (https://narushealth.com) Compassion platform Frontend. React",
-                "Designed UI for the aidbox.io platform. ClojureScript",
-                "Participated to FHIRStarter 2018 conference organizing (digital marketing)",
-                "Won the FHIR tools hackathon. Vue 2",
-                "Drastically reduced time to ship landing page changes via webflow.io"
-            ]
-        },
-        {
-            "company": "Clickavia",
-            "position": "CTO and Product manager",
-            "website": "http://clickavia.ru",
-            "startDate": "2010-09-01",
-            "endDate": "2014-11-01",
-            "summary": "Charter flights search engine and booking platform",
-            "highlights": [
-                "Introduced a tech stack change for the scale: PHP → Ruby on Rails, Haml, SCSS, Backbone.js, DevOps",
-                "Assembled a technical team",
-                "Introduced technical culture and practices for the scale",
-                "Built 3 website and search engine versions",
-                "Built data scrappers and crawlers system",
-                "Introduced Business Intelligence system data analytics"
-            ]
-        },
-        {
-            "company": "Evrone",
-            "position": "Junior Ruby on Rails developer",
-            "website": "https://evrone.com/",
-            "startDate": "2011-09-01",
-            "endDate": "2012-02-01",
-            "summary": "Outsource ruby on rails development company",
-            "highlights": [
-                "Made 36on.ru organizations repository to use Yandex data schema"
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "HTML Academy",
-            "position": "Mentor",
-            "website": "https://htmlacademy.ru/",
-            "startDate": "2018-01-01",
-            "summary": "Mentor for the basic HTML & CSS students"
-        }
-    ],
-    "education": [
-        {
-            "institution": "Gubkin Russian State University of Oil and Gas",
-            "area": "Faculty of Automation and Computer Science",
-            "studyType": "Engineer",
-            "startDate": "1999-09-01",
-            "endDate": "2004-07-01"
-        },
-        {
-            "institution": "Artyom Gorbunov Design Bureau School",
-            "website": "https://bureau.ru/school/certificate/31aug2015/level1/pavel-bubentsov/",
-            "area": "Design",
-            "studyType": "Designer",
-            "startDate": "2015-08-01",
-            "endDate": "2015-12-01"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Mini-habits approach",
-            "publisher": "Interesno.co",
-            "releaseDate": "2018-07-30",
-            "website": "http://interesno.co/myself/d6c4ca8d9565",
-            "summary": "Simplest approach to habit formation"
-        }
-    ],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "Master",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript",
-                "React",
-                "Vue",
-                "Angular",
-                "Node.js",
-                "Ruby",
-                "Elm",
-                "Clojure",
-                "ClojureScript",
-                "PHP",
-                "DevOps"
-            ]
-        },
-        {
-            "name": "Design",
-            "level": "Average",
-            "keywords": [
-                "Sketch",
-                "Figma",
-                "Typography",
-                "UI",
-                "UX"
-            ]
-        },
-        {
-            "name": "Digital Marketing",
-            "level": "Basic",
-            "keywords": [
-                "Content Marketing",
-                "Landing Pages",
-                "SMM",
-                "Strategy"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "name": "Russian",
-            "level": "Native speaker"
-        },
-        {
-            "name": "English",
-            "level": "Confident speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Self Awareness",
-            "keywords": [
-                "Headspace",
-                "Mind Valley"
-            ]
-        },
-        {
-            "name": "Productivity and Organization",
-            "keywords": [
-                "GTD",
-                "Touch Typing",
-                "vim"
-            ]
-        },
-        {
-            "name": "Music",
-            "keywords": [
-                "Guitar",
-                "Bass",
-                "Drums",
-                "Synths"
-            ]
-        },
-        {
-            "name": "Sound Production",
-            "keywords": [
-                "Liquid D'n'B",
-                "House",
-                "Progressive Trance"
-            ]
-        },
-        {
-            "name": "Video Games",
-            "keywords": [
-                "Rogue-like",
-                "Bullet Hell",
-                "MOBA",
-                "MMORPG"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Nikolay Ryzhikov, CTO of Health Samurai",
-            "reference": "Ask me on https://www.facebook.com/nicola.ryzhikov"
-        },
-        {
-            "name": "Dmitry Morkushin, CTO of Clickavia",
-            "reference": "Ask me on https://twitter.com/HomJSim"
-        }
+        "network": "Twitter",
+        "username": "Bazlai",
+        "url": "https://twitter.com/Bazlai"
+      },
+      {
+        "network": "Facebook",
+        "username": "pavel.bubentsov",
+        "url": "https://www.facebook.com/pavel.bubentsov"
+      },
+      {
+        "network": "Github",
+        "username": "Bazai",
+        "url": "https://github.com/Bazai"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Pavel Bubentsov",
+        "url": "https://www.linkedin.com/in/pavel-bubentsov-75050332/"
+      }
     ]
+  },
+  "work": [
+    {
+      "company": "Evrone",
+      "position": "Frontend developer",
+      "website": "https://evrone.com/",
+      "startDate": "2018-09-01",
+      "endDate": "now",
+      "summary": "Outstaff and outsource for the complex IT solutions",
+      "highlights": [
+        "FreshAuto used cars marketplace. Implemented brand new look and UX for the CRM and auctioning platform. Vue 2, Vuex, GraphQL, Apollo, Tailwind CSS",
+        "Experimental 'wow effect' landing page using three.js",
+        "Experimental corporate cellular expenses tracking tool: Ruby on Rails, HAML, CSS",
+        "Mokka.ru micro finances and loan company. Made website rebranding and brand new admin panel UX. Lerna, React, next.js, react-query, yandex-maps",
+        "procaresolutions.com web application support and development. React, Redux, REST API, PdfJS Express"
+      ]
+    },
+    {
+      "company": "Health Samurai",
+      "position": "Full-stack developer",
+      "website": "https://www.health-samurai.io/",
+      "startDate": "2014-11-01",
+      "endDate": "2018-07-01",
+      "summary": "Outsource HealthIT developers on top of the FHIR standard",
+      "highlights": [
+        "Developed Narus Health (https://narushealth.com) Compassion platform Frontend. React",
+        "Designed UI for the aidbox.io platform. ClojureScript",
+        "Participated to FHIRStarter 2018 conference organizing (digital marketing)",
+        "Won the FHIR tools hackathon. Vue 2",
+        "Drastically reduced time to ship landing page changes via webflow.io"
+      ]
+    },
+    {
+      "company": "Clickavia",
+      "position": "CTO and Product manager",
+      "website": "http://clickavia.ru",
+      "startDate": "2010-09-01",
+      "endDate": "2014-11-01",
+      "summary": "Charter flights search engine and booking platform",
+      "highlights": [
+        "Introduced a tech stack change for the scale: PHP → Ruby on Rails, Haml, SCSS, Backbone.js, DevOps",
+        "Assembled a technical team",
+        "Introduced technical culture and practices for the scale",
+        "Built 3 website and search engine versions",
+        "Built data scrappers and crawlers system",
+        "Introduced Business Intelligence system data analytics"
+      ]
+    },
+    {
+      "company": "Evrone",
+      "position": "Junior Ruby on Rails developer",
+      "website": "https://evrone.com/",
+      "startDate": "2011-09-01",
+      "endDate": "2012-02-01",
+      "summary": "Outsource ruby on rails development company",
+      "highlights": [
+        "Made 36on.ru organizations repository to use Yandex data schema"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "HTML Academy",
+      "position": "Mentor",
+      "website": "https://htmlacademy.ru/",
+      "startDate": "2018-01-01",
+      "summary": "Mentor for the basic HTML & CSS students"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gubkin Russian State University of Oil and Gas",
+      "area": "Faculty of Automation and Computer Science",
+      "studyType": "Engineer",
+      "startDate": "1999-09-01",
+      "endDate": "2002-07-01"
+    },
+    {
+      "institution": "Artyom Gorbunov Design Bureau School",
+      "website": "https://bureau.ru/school/certificate/31aug2015/level1/pavel-bubentsov/",
+      "area": "Design",
+      "studyType": "Designer",
+      "startDate": "2015-08-01",
+      "endDate": "2015-12-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Mini-habits approach",
+      "publisher": "Interesno.co",
+      "releaseDate": "2018-07-30",
+      "website": "http://interesno.co/myself/d6c4ca8d9565",
+      "summary": "Simplest approach to habit formation"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Vue",
+        "Angular",
+        "Node.js",
+        "Ruby",
+        "Elm",
+        "Clojure",
+        "ClojureScript",
+        "PHP",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Average",
+      "keywords": ["Sketch", "Figma", "Typography", "UI", "UX"]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Basic",
+      "keywords": ["Content Marketing", "Landing Pages", "SMM", "Strategy"]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Russian",
+      "level": "Native speaker"
+    },
+    {
+      "name": "English",
+      "level": "Confident speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Self Awareness",
+      "keywords": ["Headspace", "Mind Valley"]
+    },
+    {
+      "name": "Productivity and Organization",
+      "keywords": ["GTD", "Touch Typing", "vim"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Guitar", "Bass", "Drums", "Synths"]
+    },
+    {
+      "name": "Sound Production",
+      "keywords": ["Liquid D'n'B", "House", "Progressive Trance"]
+    },
+    {
+      "name": "Video Games",
+      "keywords": ["Rogue-like", "Bullet Hell", "MOBA", "MMORPG"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Nikolay Ryzhikov, CTO of Health Samurai",
+      "reference": "Ask me on https://www.facebook.com/nicola.ryzhikov"
+    },
+    {
+      "name": "Dmitry Morkushin, CTO of Clickavia",
+      "reference": "Ask me on https://twitter.com/HomJSim"
+    }
+  ]
 }
