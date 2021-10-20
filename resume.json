@@ -132,7 +132,7 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
@@ -151,7 +151,7 @@
     },
     {
       "name": "Design",
-      "level": "Average",
+      "level": "Intermediate",
       "keywords": ["Sketch", "Figma", "Typography", "UI", "UX"]
     },
     {
@@ -162,12 +162,12 @@
   ],
   "languages": [
     {
-      "name": "Russian",
-      "level": "Native speaker"
+      "language": "Russian",
+      "fluency": "Native speaker"
     },
     {
-      "name": "English",
-      "level": "Confident speaker"
+      "language": "English",
+      "fluency": "Confident speaker"
     }
   ],
   "interests": [
@@ -201,5 +201,6 @@
       "name": "Dmitry Morkushin, CTO of Clickavia",
       "reference": "Ask me on https://twitter.com/HomJSim"
     }
-  ]
+  ],
+  "meta": { "theme": "onepage" }
 }
