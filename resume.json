@@ -38,10 +38,74 @@
   },
   "work": [
     {
+      "company": "Axenix",
+      "type": "contract",
+      "position": "Frontend developer",
+      "website": "https://axenix.pro/",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-30",
+      "summary": "Beauty industry multi-roles Ecommerce/marketplace platform",
+      "highlights": []
+    },
+    {
+      "company": "Evrone",
+      "position": "Frontend developer",
+      "website": "https://evrone.com/",
+      "startDate": "2024-03-04",
+      "summary": "Outstaff and outsource for the complex IT solutions",
+      "highlights": [
+        "FreshAuto used cars marketplace. Implemented brand new look and UX for the CRM and auctioning platform. Vue 2, Vuex, GraphQL, Apollo, Tailwind CSS",
+        "Experimental 'wow effect' landing page using three.js",
+        "Experimental corporate cellular expenses tracking tool: Ruby on Rails, HAML, CSS",
+        "Mokka.ru micro finances and loan company. Made website rebranding and brand new admin panel UX. Lerna, React, next.js, react-query, yandex-maps",
+        "procaresolutions.com web application support and development. React, Redux, REST API, PdfJS Express"
+      ]
+    },
+    {
+      "company": "HappySocks",
+      "type": "contract",
+      "position": "Full-stack developer",
+      "website": "https://www.happysocks.com/",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-24",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "HiotLabs",
+      "type": "contract",
+      "position": "Full-stack developer",
+      "website": "https://www.hiotlabs.com/about/",
+      "startDate": "2022-03-01",
+      "endDate": "2024-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "EQT",
+      "type": "contract",
+      "position": "Full-stack developer",
+      "website": "https://eqtgroup.com/",
+      "startDate": "2022-03-01",
+      "endDate": "2024-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "0+X",
+      "position": "Full-stack developer",
+      "website": "https://0x.se/",
+      "startDate": "2022-03-01",
+      "endDate": "2024-02-01",
+      "summary": "IT Consulting company based in Stockholm, Sweden",
+      "highlights": []
+    },
+    {
       "company": "Evrone",
       "position": "Frontend developer",
       "website": "https://evrone.com/",
       "startDate": "2018-09-01",
+      "endDate": "2022-03-01",
       "summary": "Outstaff and outsource for the complex IT solutions",
       "highlights": [
         "FreshAuto used cars marketplace. Implemented brand new look and UX for the CRM and auctioning platform. Vue 2, Vuex, GraphQL, Apollo, Tailwind CSS",
